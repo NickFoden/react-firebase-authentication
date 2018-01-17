@@ -1,1 +1,1 @@
-## Firebase Auth with React-the-editor
+## Firebase Auth with React
